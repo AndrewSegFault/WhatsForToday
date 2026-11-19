@@ -2,6 +2,8 @@
     <application
         android:theme="@style/AppTheme"
         android:label="What's for Today?"
+        android:icon="@drawable/app_icon"
+        android:roundIcon="@drawable/app_icon"
         android:allowBackup="true"
         android:supportsRtl="true">
         <activity
